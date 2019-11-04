@@ -1,4 +1,4 @@
-![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
+<img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Lab | Understanding descriptive stats
 This lab will guide you to a better understanding of basic descriptive statistics. You will learn how to compute the basic descriptive metrics and compare them in different use cases. 
